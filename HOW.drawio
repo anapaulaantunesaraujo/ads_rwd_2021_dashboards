@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-06-26T20:02:34.403Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="sazrrUlRkeEtppf1QZmm" version="14.7.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-26T20:09:31.578Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="n03LaASvcUuNIQUtz3qR" version="14.7.9" type="github">
   <diagram id="kS7YShBmf-Vi9kX7x40W" name="Page-1">
-    <mxGraphModel dx="2249" dy="732" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2249" dy="675" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -198,9 +198,6 @@
         </mxCell>
         <mxCell id="Yb-nqklC3BCnyLT47Zx7-122" value="Image cap" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.topButton;rSize=5;perimeter=none;whiteSpace=wrap;fillColor=#868E96;strokeColor=#DFDFDF;fontColor=#DEE2E6;resizeWidth=1;fontSize=18;" vertex="1" parent="Yb-nqklC3BCnyLT47Zx7-121">
           <mxGeometry width="250" height="260" relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Yb-nqklC3BCnyLT47Zx7-128" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#DFC48F;" edge="1" parent="1" source="_z7VufSlRjq4akLYijZS-37" target="_z7VufSlRjq4akLYijZS-20">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Yb-nqklC3BCnyLT47Zx7-129" value="1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="960" width="26" height="26" as="geometry" />
